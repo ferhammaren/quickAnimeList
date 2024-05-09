@@ -1,0 +1,2 @@
+# quickAnimeList
+Anime checklist project
